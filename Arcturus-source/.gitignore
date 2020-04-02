@@ -1,0 +1,15 @@
+logging/
+*.iml
+.idea/
+target/**
+TODO.txt
+packet.pkt
+plugins/**
+src/main/resources/
+src/test/
+target/
+config.ini
+*.txt
+*.jar
+*.log
+*.zip
