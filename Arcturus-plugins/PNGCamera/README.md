@@ -1,5 +1,11 @@
 # PNGCamera
 
+# PNGCamera is outdated version, may work. Dont know.
+
+Updated new Camera plugin!!
+( https://github.com/uncrypt3d/arcturus.github.io/tree/master/Arcturus-plugins/PNGCamera/UPDATED-PNG/ )
+Yo should check it out ! ^
+
 PNGCamera is an Arcturus Plugin by Harmonic.
 
 Installing a plugin is simple! Simply place the `PNGCam-1.3.jar` file into your `/plugins` folder.
@@ -17,7 +23,7 @@ Change your external_variables to the following:\
 `navigator.thumbnail.url_base=https://mydomain.com/swfs/camera/thumbnails/`\
 `stories.image_url_base=https://mydomain.com/swfs/camera/`
 
-Download the required [Habbo.swf](http://www.mediafire.com/file/s1b9r875b38sof5/newpng.swf/file).
+Download the required [Habbo.swf](https://github.com/uncrypt3d/arcturus.github.io/tree/master/Arcturus-plugins/PNGCamera/UPDATED-PNG/Habbo.swf) < May work with normal PNG.
 
 
 ---
